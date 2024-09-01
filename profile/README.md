@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We're Zelith Studio.</h1>
-<h3 align="center">A team building ✨ unique apps on [@discord](https://github.com/discord) and more...</h3>
+<h3 align="center">A team building ✨ unique apps on <a href="https://github.com/discord/" target="_blank">@discord</a> and more...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelithstudio&label=Profile%20views&color=0e75b6&style=flat" alt="zelithstudio" /> </p>
 
